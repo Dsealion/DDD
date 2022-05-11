@@ -21,6 +21,7 @@
 
     <modules>
         <module>start</module>
+        <module>domain</module>
     </modules>
     <dependencies>
 

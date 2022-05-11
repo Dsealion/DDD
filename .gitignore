@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/*
+/domain/.gitignore
+/start/.mvn/wrapper/maven-wrapper.jar
+/domain/.mvn/wrapper/maven-wrapper.properties
+/start/.mvn/wrapper/maven-wrapper.properties
+/domain/mvnw
+/start/mvnw
+/domain/mvnw.cmd
+/start/mvnw.cmd
